@@ -1,0 +1,15 @@
+.inner_Div{
+    position: relative;
+}
+.select_opt{
+    position: absolute;
+    top: 37%;
+    left: 17%;
+}
+.content_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background: #74b3da;
+}
